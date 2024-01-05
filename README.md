@@ -1,5 +1,5 @@
 # MetaCare
-
+.
 The Clinic Management System streamlines patient registration, doctor requests, and administrative tasks. Patients can manage records, appointments, prescriptions, and health packages, while doctors gain a comprehensive view of patient data. The system enhances communication through video calls, making healthcare accessible.
 
 
@@ -435,3 +435,4 @@ https://www.npmjs.com/            MERN Stack Crash Course Tutorial
 - [Bootstrap](https://react-bootstrap.github.io): CSS framework (License: MIT)
 - [Material-UI](https://material-ui.com): CSS framework (License: MIT)
 - [Git](https://git-scm.com): Distributed version control system (License: GNU General Public License (GPL))
+.
